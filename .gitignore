@@ -1,0 +1,19 @@
+# Godot 4+ specific ignores
+.godot/
+android/
+
+# Godot cache
+.import/
+
+# Exports/builds
+export/
+*.exe
+*.apk
+*.zip
+*.dmg
+
+# OS junk
+.DS_Store
+
+# IDE files
+.vscode/
