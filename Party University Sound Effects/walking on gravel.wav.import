@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ygkyn1p4ue0u"
+path="res://.godot/imported/walking on gravel.wav-95817950526620d0525a47a595b8080e.sample"
+
+[deps]
+
+source_file="res://Party University Sound Effects/walking on gravel.wav"
+dest_files=["res://.godot/imported/walking on gravel.wav-95817950526620d0525a47a595b8080e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

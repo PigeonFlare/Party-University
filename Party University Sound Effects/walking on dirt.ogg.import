@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://br8ago3sboocq"
+path="res://.godot/imported/walking on dirt.ogg-5f44b53897ac5fec7d98c4d5d0fbaec3.oggvorbisstr"
+
+[deps]
+
+source_file="res://Party University Sound Effects/walking on dirt.ogg"
+dest_files=["res://.godot/imported/walking on dirt.ogg-5f44b53897ac5fec7d98c4d5d0fbaec3.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

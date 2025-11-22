@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cc5gasncxcilw"
+path="res://.godot/imported/typing.wav-29a45c4d202ddb5e1884cc4b0fce1e48.sample"
+
+[deps]
+
+source_file="res://Party University Sound Effects/typing.wav"
+dest_files=["res://.godot/imported/typing.wav-29a45c4d202ddb5e1884cc4b0fce1e48.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cg7s0ebr6nbwq"
+path="res://.godot/imported/feathersoundwhoosh.wav-1ef24e9c7d5409cb6a0e9b50a6699d3d.sample"
+
+[deps]
+
+source_file="res://Party University Sound Effects/feathersoundwhoosh.wav"
+dest_files=["res://.godot/imported/feathersoundwhoosh.wav-1ef24e9c7d5409cb6a0e9b50a6699d3d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

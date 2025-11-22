@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bythcek6q0hug"
+path="res://.godot/imported/breaking objects.wav-9d9a0ed7a7c73c4784a1e56cf8eebaa0.sample"
+
+[deps]
+
+source_file="res://Party University Sound Effects/breaking objects.wav"
+dest_files=["res://.godot/imported/breaking objects.wav-9d9a0ed7a7c73c4784a1e56cf8eebaa0.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

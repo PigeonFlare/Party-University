@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://vdhg33jftymg"
+path="res://.godot/imported/sparkle magic.wav-e136017010838d714b7f0e180b30a812.sample"
+
+[deps]
+
+source_file="res://Party University Sound Effects/sparkle magic.wav"
+dest_files=["res://.godot/imported/sparkle magic.wav-e136017010838d714b7f0e180b30a812.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
