@@ -1,0 +1,27 @@
+[gd_scene load_steps=3 format=3 uid="uid://do8kmu6pr1w7k"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_y32ns"]
+size = Vector2(198, 20)
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_wtcfe"]
+
+[node name="node_2d" type="Node2D"]
+
+[node name="static_body_2d" type="StaticBody2D" parent="."]
+
+[node name="collision_shape_2d" type="CollisionShape2D" parent="static_body_2d"]
+shape = SubResource("RectangleShape2D_y32ns")
+
+[node name="mesh_instance_2d" type="MeshInstance2D" parent="static_body_2d"]
+
+[node name="directional_light_2d" type="DirectionalLight2D" parent="."]
+position = Vector2(94, -61)
+
+[node name="animatable_body_2d" type="AnimatableBody2D" parent="."]
+position = Vector2(92, -63)
+
+[node name="collision_shape_2d" type="CollisionShape2D" parent="animatable_body_2d"]
+position = Vector2(-92, 35)
+shape = SubResource("CapsuleShape2D_wtcfe")
+
+[node name="mesh_instance_2d" type="MeshInstance2D" parent="animatable_body_2d"]
