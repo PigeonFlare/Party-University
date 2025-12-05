@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dnssbgxq6mkre"
+path="res://.godot/imported/soft walking.wav-9cdecc105321b30df927f4656c42bdc1.sample"
+
+[deps]
+
+source_file="res://sound effects/soft walking.wav"
+dest_files=["res://.godot/imported/soft walking.wav-9cdecc105321b30df927f4656c42bdc1.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

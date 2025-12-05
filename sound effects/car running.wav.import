@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b3qvmmcuuelwo"
+path="res://.godot/imported/car running.wav-ca278c875a1820f7e5257e7b4abc06fa.sample"
+
+[deps]
+
+source_file="res://sound effects/car running.wav"
+dest_files=["res://.godot/imported/car running.wav-ca278c875a1820f7e5257e7b4abc06fa.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
