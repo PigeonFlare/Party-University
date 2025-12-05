@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dnssbgxq6mkre"
-path="res://.godot/imported/soft walking.wav-51ecc3be6b6a1db3dae44448ff2273ca.sample"
+path="res://.godot/imported/soft walking.wav-9cdecc105321b30df927f4656c42bdc1.sample"
 
 [deps]
 
-source_file="res://Party University Sound Effects/soft walking.wav"
-dest_files=["res://.godot/imported/soft walking.wav-51ecc3be6b6a1db3dae44448ff2273ca.sample"]
+source_file="res://sound effects/soft walking.wav"
+dest_files=["res://.godot/imported/soft walking.wav-9cdecc105321b30df927f4656c42bdc1.sample"]
 
 [params]
 

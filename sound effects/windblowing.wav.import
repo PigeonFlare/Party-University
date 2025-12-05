@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://10ykbpe68vq7"
-path="res://.godot/imported/windblowing.wav-ad79f7b254e86702438932665b1bbc32.sample"
+path="res://.godot/imported/windblowing.wav-344165cf0e24838928c337a4894615a6.sample"
 
 [deps]
 
-source_file="res://Party University Sound Effects/windblowing.wav"
-dest_files=["res://.godot/imported/windblowing.wav-ad79f7b254e86702438932665b1bbc32.sample"]
+source_file="res://sound effects/windblowing.wav"
+dest_files=["res://.godot/imported/windblowing.wav-344165cf0e24838928c337a4894615a6.sample"]
 
 [params]
 

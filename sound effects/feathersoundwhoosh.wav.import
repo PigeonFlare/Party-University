@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cg7s0ebr6nbwq"
-path="res://.godot/imported/feathersoundwhoosh.wav-1ef24e9c7d5409cb6a0e9b50a6699d3d.sample"
+path="res://.godot/imported/feathersoundwhoosh.wav-0fa6f54af7ea9325db0dd99e431b615a.sample"
 
 [deps]
 
-source_file="res://Party University Sound Effects/feathersoundwhoosh.wav"
-dest_files=["res://.godot/imported/feathersoundwhoosh.wav-1ef24e9c7d5409cb6a0e9b50a6699d3d.sample"]
+source_file="res://sound effects/feathersoundwhoosh.wav"
+dest_files=["res://.godot/imported/feathersoundwhoosh.wav-0fa6f54af7ea9325db0dd99e431b615a.sample"]
 
 [params]
 

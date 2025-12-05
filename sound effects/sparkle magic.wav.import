@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://vdhg33jftymg"
-path="res://.godot/imported/sparkle magic.wav-e136017010838d714b7f0e180b30a812.sample"
+path="res://.godot/imported/sparkle magic.wav-38848ab4468448b780cd5b4a0284c3a6.sample"
 
 [deps]
 
-source_file="res://Party University Sound Effects/sparkle magic.wav"
-dest_files=["res://.godot/imported/sparkle magic.wav-e136017010838d714b7f0e180b30a812.sample"]
+source_file="res://sound effects/sparkle magic.wav"
+dest_files=["res://.godot/imported/sparkle magic.wav-38848ab4468448b780cd5b4a0284c3a6.sample"]
 
 [params]
 

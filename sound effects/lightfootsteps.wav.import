@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://qn3174iivenx"
-path="res://.godot/imported/lightfootsteps.wav-45abdcd1ac85620f2d2fb789f91946bf.sample"
+path="res://.godot/imported/lightfootsteps.wav-f6cba7eaf22dea0b63890ca7522c29b7.sample"
 
 [deps]
 
-source_file="res://Party University Sound Effects/lightfootsteps.wav"
-dest_files=["res://.godot/imported/lightfootsteps.wav-45abdcd1ac85620f2d2fb789f91946bf.sample"]
+source_file="res://sound effects/lightfootsteps.wav"
+dest_files=["res://.godot/imported/lightfootsteps.wav-f6cba7eaf22dea0b63890ca7522c29b7.sample"]
 
 [params]
 

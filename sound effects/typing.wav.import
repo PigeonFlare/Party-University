@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cc5gasncxcilw"
-path="res://.godot/imported/typing.wav-29a45c4d202ddb5e1884cc4b0fce1e48.sample"
+path="res://.godot/imported/typing.wav-9a8e6ac7e5d98d98b7fcbf05e751ef1a.sample"
 
 [deps]
 
-source_file="res://Party University Sound Effects/typing.wav"
-dest_files=["res://.godot/imported/typing.wav-29a45c4d202ddb5e1884cc4b0fce1e48.sample"]
+source_file="res://sound effects/typing.wav"
+dest_files=["res://.godot/imported/typing.wav-9a8e6ac7e5d98d98b7fcbf05e751ef1a.sample"]
 
 [params]
 

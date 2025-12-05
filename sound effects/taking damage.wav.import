@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d6xt0iyapw2m"
-path="res://.godot/imported/taking damage.wav-c5ae93a734a6c4555f8d688fcffaa7b4.sample"
+path="res://.godot/imported/taking damage.wav-903b2918ae98411eca4bc0bf433ed283.sample"
 
 [deps]
 
-source_file="res://Party University Sound Effects/taking damage.wav"
-dest_files=["res://.godot/imported/taking damage.wav-c5ae93a734a6c4555f8d688fcffaa7b4.sample"]
+source_file="res://sound effects/taking damage.wav"
+dest_files=["res://.godot/imported/taking damage.wav-903b2918ae98411eca4bc0bf433ed283.sample"]
 
 [params]
 

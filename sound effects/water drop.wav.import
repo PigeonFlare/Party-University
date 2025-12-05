@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bfxsqe54g81v3"
-path="res://.godot/imported/water drop.wav-78673c8c7db63c062b0b4dfb82cf584a.sample"
+path="res://.godot/imported/water drop.wav-81b7659e58870bc46f7baacf24e75da1.sample"
 
 [deps]
 
-source_file="res://Party University Sound Effects/water drop.wav"
-dest_files=["res://.godot/imported/water drop.wav-78673c8c7db63c062b0b4dfb82cf584a.sample"]
+source_file="res://sound effects/water drop.wav"
+dest_files=["res://.godot/imported/water drop.wav-81b7659e58870bc46f7baacf24e75da1.sample"]
 
 [params]
 

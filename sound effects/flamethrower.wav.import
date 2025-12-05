@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://m4gyliglvwyx"
-path="res://.godot/imported/flamethrower.wav-77d952c1152ca471e9e2cb7650c199e0.sample"
+path="res://.godot/imported/flamethrower.wav-d1e432dac4cccc95a1babf89409f8851.sample"
 
 [deps]
 
-source_file="res://Party University Sound Effects/flamethrower.wav"
-dest_files=["res://.godot/imported/flamethrower.wav-77d952c1152ca471e9e2cb7650c199e0.sample"]
+source_file="res://sound effects/flamethrower.wav"
+dest_files=["res://.godot/imported/flamethrower.wav-d1e432dac4cccc95a1babf89409f8851.sample"]
 
 [params]
 

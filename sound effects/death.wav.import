@@ -2,13 +2,13 @@
 
 importer="wav"
 type="AudioStreamWAV"
-uid="uid://dsnsrsug36h5"
-path="res://.godot/imported/warp.wav-7efe2e91941703678161d96bf414b578.sample"
+uid="uid://cgp8w4gssutx0"
+path="res://.godot/imported/death.wav-3e3f7d0dd3eaa399e57f96f4ece65e4a.sample"
 
 [deps]
 
-source_file="res://Party University Sound Effects/warp.wav"
-dest_files=["res://.godot/imported/warp.wav-7efe2e91941703678161d96bf414b578.sample"]
+source_file="res://sound effects/death.wav"
+dest_files=["res://.godot/imported/death.wav-3e3f7d0dd3eaa399e57f96f4ece65e4a.sample"]
 
 [params]
 

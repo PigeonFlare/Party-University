@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c6w4kas2n8da8"
-path="res://.godot/imported/warning.wav-a0394e76c011a7bc89caf0c6299b7fba.sample"
+path="res://.godot/imported/warning.wav-7c89bdc8fcffc41a209c29772c823cab.sample"
 
 [deps]
 
-source_file="res://Party University Sound Effects/warning.wav"
-dest_files=["res://.godot/imported/warning.wav-a0394e76c011a7bc89caf0c6299b7fba.sample"]
+source_file="res://sound effects/warning.wav"
+dest_files=["res://.godot/imported/warning.wav-7c89bdc8fcffc41a209c29772c823cab.sample"]
 
 [params]
 
