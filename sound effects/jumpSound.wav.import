@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c4lrodxwxasrl"
-path="res://.godot/imported/ploop (jump).wav-ebba59d4559ef53847bd169c37505fd7.sample"
+path="res://.godot/imported/jumpSound.wav-30a91d871ae9fe412da078cece38bfb3.sample"
 
 [deps]
 
-source_file="res://sound effects/ploop (jump).wav"
-dest_files=["res://.godot/imported/ploop (jump).wav-ebba59d4559ef53847bd169c37505fd7.sample"]
+source_file="res://sound effects/jumpSound.wav"
+dest_files=["res://.godot/imported/jumpSound.wav-30a91d871ae9fe412da078cece38bfb3.sample"]
 
 [params]
 
