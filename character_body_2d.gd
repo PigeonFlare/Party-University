@@ -33,3 +33,7 @@ func play_jump_sound():
 	sfx_player.pitch_scale = randf_range(0.9, 1.1)
 	# Play the sound!
 	sfx_player.play()
+
+
+func _on_kill_zone_body_entered(body: Node2D) -> void:
+	pass # Replace with function body.
