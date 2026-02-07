@@ -87,7 +87,7 @@ texture = ExtResource("7_d21ai")
 script = ExtResource("8_rj586")
 
 [node name="collision_shape_2d" type="CollisionShape2D" parent="KillZone"]
-position = Vector2(480, -336.5)
+position = Vector2(493, -273)
 shape = SubResource("RectangleShape2D_4d7sh")
 
 [node name="ucsb_party_uni" type="Sprite2D" parent="KillZone"]
